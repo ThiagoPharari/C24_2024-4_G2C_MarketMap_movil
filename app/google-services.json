@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675291417443",
+    "firebase_url": "https://marketmap-703d5-default-rtdb.firebaseio.com",
+    "project_id": "marketmap-703d5",
+    "storage_bucket": "marketmap-703d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675291417443:android:481f8e1722f7749587e156",
+        "android_client_info": {
+          "package_name": "com.pharari.thiago.marketmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675291417443-4vcrqsice7f0j59rr6carrasdnfuk1i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pharari.thiago.marketmap",
+            "certificate_hash": "ea6f4d040f80329e0780e4b554e4a47a6fc27e7b"
+          }
+        },
+        {
+          "client_id": "675291417443-0t37ijni552bmv3j4sf93c6iq62aa439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGFSGHP4afBfTQ06kGbMZ_1FLQccpI9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675291417443-0t37ijni552bmv3j4sf93c6iq62aa439.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
