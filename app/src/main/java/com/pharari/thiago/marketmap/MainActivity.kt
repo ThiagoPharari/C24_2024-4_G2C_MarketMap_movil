@@ -8,6 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.google.firebase.auth.FirebaseAuth
+import com.pharari.thiago.marketmap.Anuncios.CrearAnuncio
 import com.pharari.thiago.marketmap.Fragmentos.FragmentChats
 import com.pharari.thiago.marketmap.Fragmentos.FragmentCuenta
 import com.pharari.thiago.marketmap.Fragmentos.FragmentInicio
@@ -52,6 +53,10 @@ class MainActivity : AppCompatActivity() {
                     false
                 }
             }
+        }
+
+        binding.FAB.setOnClickListener {
+            startActivity(Intent(this, CrearAnuncio::class.java))
         }
     }
 

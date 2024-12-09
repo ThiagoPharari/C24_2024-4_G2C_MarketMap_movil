@@ -52,6 +52,16 @@
     <string name="Et_telefono">Teléfono</string>
     <string name="Btn_actualizar">Actualizar</string>
 
+    <!--Crear anuncio-->
+
+    <string name="Et_marca">Nombre de la marca</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Condicion">Condicion</string>
+    <string name="Locacion">Locación</string>
+    <string name="Et_precio">Precio</string>
+    <string name="Et_titulo">Título</string>
+    <string name="Et_descripcion">Descripción</string>
+    <string name="Btn_crear_anuncio">Crear Anuncio</string>
 
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
