@@ -110,10 +110,33 @@
 
             </com.google.android.material.textfield.TextInputLayout>
 
+            <!--Locación-->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/TIL_Locacion"
+                android:layout_below="@id/TIL_Condicion"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                android:layout_marginTop="10dp"
+                app:boxCornerRadiusTopEnd="8dp"
+                app:boxCornerRadiusBottomEnd="8dp"
+                app:boxCornerRadiusBottomStart="8dp"
+                app:boxCornerRadiusTopStart="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <AutoCompleteTextView
+                    android:id="@+id/Locacion"
+                    android:hint="@string/Locacion"
+                    android:inputType="none"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
             <!--Precio-->
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/TIL_Precio"
-                android:layout_below="@id/TIL_Condicion"
+                android:layout_below="@id/TIL_Locacion"
                 android:layout_marginTop="10dp"
                 app:boxCornerRadiusTopEnd="8dp"
                 app:boxCornerRadiusBottomEnd="8dp"

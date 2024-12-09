@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">MarketMap</string>
 
+    <string name="mi_google_maps_api_key">AIzaSyBTnLlAHXs-ZMSG52VZk4UqNbApqXgn9cI</string>
+
     <string name="Item_Inicio">Inicio</string>
     <string name="Item_Chats">Chats</string>
     <string name="Item_vender">Vender</string>
