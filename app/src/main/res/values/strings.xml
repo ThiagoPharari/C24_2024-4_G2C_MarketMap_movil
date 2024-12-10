@@ -58,12 +58,17 @@
 
     <string name="Et_marca">Nombre de la marca</string>
     <string name="Categoria">Categoria</string>
-    <string name="Condicion">Condicion</string>
+    <string name="Condicion">Condición</string>
     <string name="Locacion">Locación</string>
     <string name="Et_precio">Precio</string>
     <string name="Et_titulo">Título</string>
     <string name="Et_descripcion">Descripción</string>
     <string name="Btn_crear_anuncio">Crear Anuncio</string>
+
+
+    <!--Mapas-->
+    <string name="Txt_selec_ubicacion">Seleccione ubicación</string>
+    <string name="Btn_listo">Listo</string>
 
 
     <string name="hello_blank_fragment">Hello blank fragment</string>

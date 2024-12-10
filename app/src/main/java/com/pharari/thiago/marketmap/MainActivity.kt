@@ -37,14 +37,14 @@ class MainActivity : AppCompatActivity() {
                     verFragmentInicio()
                     true
                 }
-                R.id.Item_Chats->{
+                /*R.id.Item_Chats->{
                     verFragmentChats()
                     true
                 }
                 R.id.Item_Mis_Anuncios->{
                     verFragmentMisAnuncios()
                     true
-                }
+                }*/
                 R.id.Item_Cuenta->{
                     verFragmentCuenta()
                     true

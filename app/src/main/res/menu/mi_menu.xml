@@ -6,21 +6,21 @@
         android:title="@string/Item_Inicio"
         android:icon="@drawable/ic_inicio"
         />
-    <item
+    <!--<item
         android:id="@+id/Item_Chats"
         android:title="@string/Item_Chats"
         android:icon="@drawable/ic_chats"
-        />
+        /> -->
     <item
         android:id="@+id/Item_vender"
         android:title="@string/Item_vender"
         android:enabled="false"
         />
-    <item
+    <!-- <item
         android:id="@+id/Item_Mis_Anuncios"
         android:title="@string/Item_Mis_Anuncios"
         android:icon="@drawable/ic_mis_anuncios"
-        />
+        /> -->
     <item
         android:id="@+id/Item_Cuenta"
         android:title="@string/Item_Cuenta"
